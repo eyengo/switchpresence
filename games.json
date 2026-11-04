@@ -3255,6 +3255,10 @@
     "image": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/d/dont-touch-this-button-switch/hero"
   },
   {
+    "title": "Donkey Kong™ Bananza",
+    "image": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch2/70010000096809/3c8219fbdcd3bdd0ebd6239cf32c651fe10f2157aa7730fcc6a7d96cd27460e5"
+  },
+  {
     "title": "Donkey Kong Country™: Tropical Freeze",
     "image": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/d/donkey-kong-country-tropical-freeze-switch/hero"
   },
@@ -5232,6 +5236,10 @@
   {
     "title": "The Legend of Zelda™: Link’s Awakening",
     "image": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/t/the-legend-of-zelda-links-awakening-switch/hero"
+  },
+  {
+    "title": "The Legend of Zelda™: Ocarina of Time",
+    "image": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch2/70010000130792/21d17919819cffebda2817f9b0110116c28568e0b6fa30a9778f1679271be809"
   },
   {
     "title": "The Last Show of Mr. Chardish",
@@ -15858,6 +15866,10 @@
     "image": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/c/castlevania-anniversary-collection-switch/hero"
   },
   {
+    "title": "Castlevania Belmont's Curse",
+    "image": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch/70010000116851/316832b5a2c5f3d34b658274354e1d1f41f81e0d51d4d3eb8cfdf95e86f89b76"
+  },
+  {
     "title": "Cat Cafe Manager",
     "image": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/c/cat-cafe-manager-switch/hero"
   },
@@ -17163,6 +17175,14 @@
   {
     "title": "FINAL FANTASY® CRYSTAL CHRONICLES™ Remastered Edition",
     "image": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/f/final-fantasy-crystal-chronicles-remastered-edition-switch/hero"
+  },
+  {
+    "title": "FINAL FANTASY RESONANCE",
+    "image": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_656/b_white/f_auto/q_auto/store/software/switch/70010000117093/f32f745bc141f4b1f238254f9710c4269b26e315307b3263e558b20ef2c331ac"
+  },
+  {
+    "title": "FINAL FANTASY TACTICS - The Ivalice Chronicles",
+    "image": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_656/b_white/f_auto/q_auto/store/software/switch/70010000088802/11a925adc5d9adb1c937bb13a972e530257a4b3cad695bb467a9fa5b32e7a851"
   },
   {
     "title": "Final Light, The Prison",
@@ -21927,6 +21947,10 @@
   {
     "title": "Metroid™ Dread",
     "image": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/m/metroid-dread-switch/hero"
+  },
+  {
+    "title": "Metroid™ Ravenous",
+    "image": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch2/70010000135071/f067f6f0cb7770ec655a06f152a9c9513fecc5c3ccb745012bf3167990eb023d"
   },
   {
     "title": "Metamorphosis",
