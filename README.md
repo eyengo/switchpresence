@@ -33,7 +33,7 @@ Can't find your game? The last search result will always allow you to enter a cu
 
 ## Download
 
-| OS      | Download                                                                                                                 |
+| OS      | Download old links only                                                                                                                 |
 | ------- | ------------------------------------------------------------------------------------------------------------------------ |
 | macOS   | [SwitchPresence.app.tar.gz](https://github.com/dilanx/switchpresence/releases/download/v1.0.0/SwitchPresence.app.tar.gz) |
 | Windows | [SwitchPresence.msi](https://github.com/dilanx/switchpresence/releases/download/v1.0.0/SwitchPresence.msi)               |
